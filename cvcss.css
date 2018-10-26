@@ -1,0 +1,137 @@
+.name
+{
+
+    font-size: 350%;
+    position:absolute;
+    left:7%;
+    top:3.2%;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif
+}
+
+.pn{
+    position: absolute;
+    left:6%;
+    top:8%;
+    font-size: 130%;
+}
+
+.headings{
+color:aliceblue;
+font-size: 150%;
+width: 30%;
+height:4%;
+background-color: black;
+
+
+}
+
+.ob{
+font-size: 130%;
+position:absolute;
+left:7%;
+top:17%;
+}
+
+#obj{
+    position: absolute;
+left:5.5%;
+top:11%;
+}
+#ac{
+    position: absolute;
+    left:5.5%;
+top:23%;
+}
+
+.mat{
+    position: absolute;
+    left:7%;
+    font-size: 130%;
+    top:30%; 
+}
+.int{
+    position: absolute;
+    left:7%;
+    top:38%;
+    font-size: 130%;
+}
+.bac{
+    position: absolute;
+    left:7%;
+    top:46%;
+    font-size: 130%;
+}
+.ma{
+position: absolute;
+left: 24%;
+top:30%;
+font-size: 130%
+}
+.in{
+position: absolute;
+left: 24%;
+top:38%;
+font-size: 130%
+}
+.ba{
+position: absolute;
+left: 24%;
+top:46%;
+font-size: 130%
+}
+#pr{
+    position: absolute;
+    left:5.5%;
+top:52%;
+}
+.mom{
+    position: absolute;
+    left:7%;
+    top:58%;
+    font-size: 130%;
+}
+.mo{
+    position: absolute;
+left: 33%;
+top:60%;
+font-size: 130%
+}
+#pe{
+    position: absolute;
+    left:5.5%;
+top:63%;
+}
+.per{
+    position: absolute;
+left: 10%;
+top:70%;
+font-size: 130%
+}
+.pers{
+    position: absolute;
+left: 35%;
+top:70%;
+font-size: 130%
+}
+#la{
+    position: absolute;
+    left:5.5%;
+    top:97%;
+}
+.lag{
+    position: absolute;
+left: 8%;
+top:102%;
+font-size: 130%
+}
+#re{
+    position: absolute;
+    left:5.5%;
+    top:106%;
+}
+.ref{
+    position: absolute;
+left: 15%;
+top:112%;
+font-size: 110%
+}
